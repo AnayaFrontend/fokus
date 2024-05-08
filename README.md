@@ -9,7 +9,7 @@ Projeto incrível desenvolvido ao longo do curso de JavaScript da Alura
 
 O nosso querido projeto é uma aplicação web interativa que permite aos usuários adicionar, editar, visualizar e remover tarefas, tudo em um ambiente visual agradável e amigável.
 
-Link do deploy: [fokus-steel.vercel.app]
+Link do deploy:[https://fokus-steel.vercel.app/]
 
 ## Recursos do Projeto
 
